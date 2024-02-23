@@ -4,4 +4,4 @@ MovieREC is a recommender system that is designed to recommend non-personalized 
 
 It utilizes collaborative filtering techniques to suggest items based on the preferences of all the users.
 
-Rhe recommendations include a cluster of similar items to enhance the users' experience without relying on a detailed analysis of individual user profiles.
+The recommendations include a cluster of similar items to enhance the users' experience without relying on a detailed analysis of individual user profiles.
